@@ -1,0 +1,28 @@
+{
+  "name": "browserify-lightninground",
+  "version": "1.0.0",
+  "description": "brief overview of using browserify from a beginner's perspective",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbrugg/browserify-lightninground.git"
+  },
+  "author": "lbrugg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lbrugg/browserify-lightninground/issues"
+  },
+  "homepage": "https://github.com/lbrugg/browserify-lightninground#readme",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {
+    "browserify": "^11.1.0",
+    "gulp": "^3.9.0",
+    "gulp-notify": "^2.2.0",
+    "del": "^1.2.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "gulp-uglify": "^1.2.0"
+  }
+}
