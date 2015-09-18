@@ -3,7 +3,7 @@ var jQuery = require('jquery');
 module.exports = {
 	
 	init: function(){
-		jQuery('#app').html("hi world");
+		jQuery('#app').html("hello world");
 	}
 
 }
