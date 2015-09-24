@@ -18,6 +18,7 @@ Clone this repository:
 ### Setup
 * `git reset --hard origin/browserify`
 * `npm install`
+* `mkdir build`
 * `browserify scripts/app.js -o build/bundle.js`
 * go to page `<installation path>/browserify-lightninground/html/index.html`
 
